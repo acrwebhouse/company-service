@@ -1,4 +1,4 @@
-USER_BASIC_LOCATION=https://matchrentdev.com/user-basic-service
-NOTIFICATION_BASIC_LOCATION=https://matchrentdev.com/notification-basic-service
-SWAGGER_IP=35.234.42.100
-SERVER_PORT=4000
+COMPANY_BASIC_LOCATION=https://matchrentdev.com/company-basic-service/api-doc
+EMPLOYEES_BASIC_LOCATION=https://matchrentdev.com/employees-basic-service/api-doc
+SWAGGER_IP=127.0.0.1
+SERVER_PORT=7000
