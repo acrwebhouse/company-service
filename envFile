@@ -1,4 +1,5 @@
 COMPANY_BASIC_LOCATION=https://matchrentdev.com/company-basic-service
 EMPLOYEES_BASIC_LOCATION=https://matchrentdev.com/employees-basic-service
+HOUSE_BASIC_LOCATION=https://matchrentdev.com/house-basic-service
 SWAGGER_IP=127.0.0.1
 SERVER_PORT=7000
